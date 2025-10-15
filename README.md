@@ -1,16 +1,16 @@
 ### Visit:
 
+https://www.tedmooremusic.com/MFCC-interactive-widget/
+
+or
+
 https://learn.flucoma.org/reference/mfcc/explain/ 
 
 ### Run Locally:
 
-In order to view this you'll have to navigate to the `p5` folder:
+Start an HTTP Server from the root directory:
 
-`cd p5`
-
-Then start an HTTP Server:
-
-`python -m SimpleHTTPServer`
+`python -m http.server 8000`
 
 Then in your browser, go to:
 
